@@ -249,7 +249,7 @@ This dashboard can support management and business teams by helping them:
 ### Insights & Recommendations
 
 ![Insights and Recommendations](
-https://github.com/arshpreet38933-spec/E-Commerce-Sales-Analytics-Dashboard/blob/main/Insight%20%26%20Recommendation%20Snapshot%20pg3.PNG)
+https://github.com/arshpreet38933-spec/E-Commerce-Sales-Analytics-Dashboard/blob/main/dashboard_page_3_insights.png)
 
 ---
 
