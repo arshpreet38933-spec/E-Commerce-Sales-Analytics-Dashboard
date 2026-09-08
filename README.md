@@ -245,11 +245,12 @@ This dashboard can support management and business teams by helping them:
 
 ### Sales & Product Performance
 
-![Sales and Product Performance](Sales%20and%20Product%20Snapshot%20pg2.PNG)
+![Sales and Product Performance](https://github.com/arshpreet38933-spec/E-Commerce-Sales-Analytics-Dashboard/blob/main/Sales%20and%20Product%20Snapshot%20pg2.PNG)
 
 ### Insights & Recommendations
 
-![Insights and Recommendations](Insight%20%26%20Recommendation%20Snapshot.PNG)
+![Insights and Recommendations](
+https://github.com/arshpreet38933-spec/E-Commerce-Sales-Analytics-Dashboard/blob/main/Insight%20%26%20Recommendation%20Snapshot%20pg3.PNG)
 
 ---
 
