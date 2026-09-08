@@ -240,8 +240,7 @@ This dashboard can support management and business teams by helping them:
 # 🖼️ Dashboard Preview
 
 ### Executive Overview
-
-![Executive Overview]([Overview%20snapshot%20pg1.PNG](https://github.com/arshpreet38933-spec/E-Commerce-Sales-Analytics-Dashboard/blob/main/Overview%20snapshot%20pg1.PNG))
+![Executive Overview](https://github.com/arshpreet38933-spec/E-Commerce-Sales-Analytics-Dashboard/blob/main/Overview%20snapshot%20pg1.PNG)
 
 ### Sales & Product Performance
 
